@@ -99,7 +99,7 @@
         height: 446px;
         width: 540;
         background-repeat: no-repeat, repeat;
-        background-image: url(/images/image-header-desktop.jpg);
+        background-image: url(./images/image-header-desktop.jpg);
         background-blend-mode:luminosity;
         filter: blur(1px);
         border-top-right-radius: 10px;
@@ -186,7 +186,7 @@
         margin: auto;
         background-size: contain;
         background-repeat: no-repeat;
-        background-image: url(/images/image-header-mobile.jpg);
+        background-image: url(./images/image-header-mobile.jpg);
         background-blend-mode:luminosity;
         filter: blur(1px);
         grid-column: 1/2;
